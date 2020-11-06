@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<heroes>
+  <hero id="1" name="孙悟空" type="打野" blood="3000">
+    <skill>
+      三个技能
+    </skill>
+  </hero>
+  <hero id="2" name="王昭君" type="法师" blood="3000">
+    <skill>
+      三个技能
+    </skill>
+  </hero>
+  <hero id="3" name="武则天" type="法师" blood="3000">
+    <skill>
+      四个技能
+    </skill>
+  </hero>
+</heroes>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<school>
+  <class no="1">
+    <name>小米</name>
+    <sex>男</sex>
+    <address>武汉</address>
+  </class>
+</school>

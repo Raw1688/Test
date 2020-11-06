@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<heroes>
+  <hero id="1" name="百里守约" type="射手">
+    <skill id="1" name="技能一"></skill>
+    百无虚发
+  </hero>
+  <hero id="2" name="百里守约1" type="射手">一枪穿云</hero>
+  <hero id="3" name="百里守约2" type="射手">百发百中</hero>
+</heroes>
